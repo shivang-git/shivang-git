@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Srivastava</h1>
 <h3 align="center">A passionate Backend developer and Coder from India</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%); "
+align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang-git&label=Profile%20views&color=0e75b6&style=flat" alt="shivang-git" /> </p>
 
