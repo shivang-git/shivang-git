@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Preshak**
 
-- 🌱 I’m currently learning **C/C++, Data Structures, Algorithms**
+- 🌱 I’m currently learning **Data Structures, Algorithms**
 
 - 💬 Ask me about **Nodejs, Expressjs, Mongodb, API's, Javascript, Python and Bootstrap**
 
