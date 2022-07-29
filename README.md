@@ -28,6 +28,6 @@ align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16ste
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivang-git&show_icons=true&locale=en&layout=compact" alt="shivang-git" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shivang-git&show_icons=true&locale=en" alt="shivang-git" /></p>
+<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shivang-git&show_icons=true&locale=en" alt="shivang-git" /></span>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivang-git&" alt="shivang-git" /></p>
