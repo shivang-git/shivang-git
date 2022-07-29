@@ -9,7 +9,7 @@ align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16ste
 
 - 🔭 I’m currently working on **Preshak**
 
-- 🌱 I’m currently learning **React, C/C++, Data Structures, Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **Nodejs, Expressjs, Mongodb, API's, Javascript, Python and Bootstrap**
 
