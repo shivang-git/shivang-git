@@ -7,11 +7,11 @@ align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16ste
 
 <p align="left"> <a href="https://twitter.com/shivang52313925" target="blank"><img src="https://img.shields.io/twitter/follow/shivang52313925?logo=twitter&style=for-the-badge" alt="shivang52313925" /></a> </p>
 
-- 🔭 I’m currently working on **Preshak**
+- 🔭 I’m currently working on **Qunnect** a chat app.
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 💬 Ask me about **Nodejs, Expressjs, Mongodb, API's, Javascript, Python and Bootstrap**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, Mongodb, Expressjs, React, Nodejs, APIs, and Python**
 
 - 📫 How to reach me **113shivang@gmail.com**
 
