@@ -20,7 +20,7 @@ align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16ste
 <a href="https://twitter.com/shivang52313925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivang52313925" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivang-srivastava-03a5b5214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang-srivastava-03a5b5214" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:18350308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18350308" height="30" width="40" /></a>
-<a href="https://instagram.com/shivangsvt_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivangsvt_13" height="30" width="40" /></a>
+<a href="https://instagram.com/shivangsvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivangsvt_13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
